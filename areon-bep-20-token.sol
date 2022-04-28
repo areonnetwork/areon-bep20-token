@@ -1,6 +1,7 @@
 /**
- * Areon Network AREON (AREA) BEP-20 Token Sources
- *Submitted for verification at BscScan.com on 2022-04-05
+ * AREON (AREA) BEP-20 Token Sources
+ * Areon Network / IP
+ * Submitted for verification at BscScan.com on 2022-04-05
 */
 
 pragma solidity 0.5.16;
